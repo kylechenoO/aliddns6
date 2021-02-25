@@ -1,6 +1,6 @@
 # aliddns<br>
-### AliyunDNS Project<br>
-- 一个基于AliyunDNS接口的DDNS项目
+### AliyunDDNS6 Project<br>
+- 一个基于AliyunDNS接口的ipv6 DDNS项目
 - 此项目仅支持ipv6, 如若需要ipv4支持, 请跳转: https://github.com/kylechenoO/aliddns
 
 ### require pkgs<br>
